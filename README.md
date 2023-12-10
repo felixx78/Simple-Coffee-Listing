@@ -25,7 +25,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd World-Ranks
+  cd Simple-Coffee-Listing
 ```
 
 Install dependencies
