@@ -4,7 +4,7 @@
 
 ## Live Demo
 
-[World Ranks Demo](https://simple-coffee-listing.web.app/)
+[Simple Coffee Listing Demo](https://simple-coffee-listing.web.app/)
 
 ## Tech Stack
 
