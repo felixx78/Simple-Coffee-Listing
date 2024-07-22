@@ -19,7 +19,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/v1st78/Simple-Coffee-Listing
+  git clone https://github.com/felixx78/Simple-Coffee-Listing
 ```
 
 Go to the project directory
